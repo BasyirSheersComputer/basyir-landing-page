@@ -35,7 +35,7 @@ const About = () => {
           <div className="mb-12">
             <div className="w-64 h-64 mx-auto rounded-2xl overflow-hidden shadow-2xl">
               <img 
-                src="https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop"
+                src="/images/ahmad_basyir.jpg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop"
                 alt="Ahmad Basyir Azahari - Senior Systems Engineer and IT Transformation Expert"
                 className="w-full h-full object-cover"
               />
